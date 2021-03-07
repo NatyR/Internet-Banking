@@ -10,7 +10,7 @@
   width: 75vw;
   height: 100px;
   position: absolute;
-  top: 50%;
+  top: 30%;
   left: 10%;
   padding: 10px;
 }
@@ -38,4 +38,15 @@
   z-index: -1000;
   background: url('https://github.com/daniloagostinho/traning-book/blob/master/src/assets/images/bg_banking.png?raw=true') no-repeat;
   background-size: cover;
+}
+
+.btn-home-cadastro-clientes {
+  position: absolute !important;
+  top: 200px;
+  padding: 20px;
+  font-size: 25px;
+  width: 40%;
+  background: #000;
+  color: #fff;
+  border: 2px solid;
 }
